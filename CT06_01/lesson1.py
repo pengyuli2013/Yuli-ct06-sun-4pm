@@ -118,3 +118,12 @@
 print('Hello world')
 print('My favourite food is Chicken Rice')
 print('My birthday is on 21st of May 2013')
+# print(Hello and how are you?)
+
+# print("What is wrong with this"
+
+# print("Why is this not working?)
+
+# Prnt("Why is this not working?")
+
+
