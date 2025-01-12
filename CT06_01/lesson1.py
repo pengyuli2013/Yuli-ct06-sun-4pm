@@ -1,4 +1,4 @@
-print("Hello from lesson 1")
+# print("Hello from lesson 1")
 
 ######### The below is the code required for task 2a ##########
 # print("1")
