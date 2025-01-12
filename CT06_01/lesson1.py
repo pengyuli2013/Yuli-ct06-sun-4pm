@@ -116,5 +116,5 @@
 # print("2029")
 # print("2030")
 print('Hello world')
-print('My favourite food is Chicken')
+print('My favourite food is Chicken Rice')
 print('Hello world')
