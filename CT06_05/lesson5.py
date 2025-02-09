@@ -25,8 +25,9 @@
 # for i in range(0,10000000000000000):
 #     num=num+1
 #     print("num")
+input
 for i in range(5):
-    
+
     print("     *")
     print("    ***")
     print("   *****")
