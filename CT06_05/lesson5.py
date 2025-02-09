@@ -26,6 +26,7 @@
 #     num=num+1
 #     print("num")
 for i in range(5):
+    
     print("     *")
     print("    ***")
     print("   *****")
