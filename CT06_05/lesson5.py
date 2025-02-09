@@ -20,4 +20,4 @@ for i in range(0,4,-1):
 var2=input("what is the starting number")
 var3=input("what is the stop number")
 for i in range(var1+var2+1):
-    pritn
+    pritn("1")
