@@ -8,5 +8,4 @@ for i in range(100):
 for i in range(100):
     print("i like cake")
     print("gimme more")
-    input("How many numbers do you want me to print")
-    
+input("How many numbers do you want me to print")
