@@ -17,3 +17,7 @@ for i in range(2,25,2):
     print(i)
 for i in range(0,4,-1):
     print(i)
+var2=input("what is the starting number")
+var3=input("what is the stop number")
+for i in range(var1+var2+1):
+    pritn
