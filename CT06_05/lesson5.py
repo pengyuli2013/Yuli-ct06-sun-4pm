@@ -10,4 +10,4 @@ for i in range(100):
     print("gimme more")
 var=input("How many numbers do you want me to print")
 for i in range(1-(var-1)):
-    print
+    print(i)
