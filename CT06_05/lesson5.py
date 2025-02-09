@@ -11,3 +11,5 @@
 # var=input("How many numbers do you want me to print")
 # for i in range(1-(var-1)):
 #     print(i)
+for i in range(0,4):
+    print()
