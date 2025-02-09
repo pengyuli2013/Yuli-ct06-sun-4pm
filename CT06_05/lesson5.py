@@ -23,4 +23,3 @@ for i in range(var2,var3+1):
     print(i)
 for i in range(0,10):
     num=num+1
-num=num+1
