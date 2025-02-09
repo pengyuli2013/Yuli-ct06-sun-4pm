@@ -24,4 +24,4 @@ for i in range(var2,var3+1):
 num=0
 for i in range(0,10000000000000000):
     num=num+1
-print
+    print("num")
