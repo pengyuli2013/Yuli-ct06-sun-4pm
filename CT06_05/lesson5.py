@@ -13,7 +13,7 @@
 #     print(i)
 for i in range(0,4):
     print(i)
-for i in range(2,24,2):
+for i in range(2,25,2):
     print(i)
 for i in range(0,4,-1):
     print(i)
