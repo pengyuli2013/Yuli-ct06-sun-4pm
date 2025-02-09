@@ -19,5 +19,5 @@ for i in range(0,4,-1):
     print(i)
 var2=input("what is the starting number")
 var3=input("what is the stop number")
-for i in range(var1,var2+1):
+for i in range(var2,var3+1):
     print(i)
