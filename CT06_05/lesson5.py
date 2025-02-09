@@ -30,7 +30,7 @@ varvar=num-1
 num2=1
 for i in range(num):
     print(varvar*" "+"*num2"+" "*varvar)
-
+    
 # for i in range(5):
 
 #     print("     *")
