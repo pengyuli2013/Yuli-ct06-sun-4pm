@@ -25,12 +25,19 @@
 # for i in range(0,10000000000000000):
 #     num=num+1
 #     print("num")
-input
-for i in range(5):
+num=input("how tall?")
+varvar=0
+for i in range(num):
+    print(varvar*" "+"*"+" "*varvar)
 
-    print("     *")
-    print("    ***")
-    print("   *****")
-    print("  *******")
-    print(" *********")
-    print("***********")
+# for i in range(5):
+
+#     print("     *")
+#     print("    ***")
+#     print("   *****")
+#     print("  *******")
+#     print(" *********")
+#     print("***********")
+#     for i in range(5):
+
+#     print("     *")
