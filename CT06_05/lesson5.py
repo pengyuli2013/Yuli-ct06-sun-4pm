@@ -8,6 +8,6 @@
 # for i in range(100):
 #     print("i like cake")
 #     print("gimme more")
-var=input("How many numbers do you want me to print")
-for i in range(1-(var-1)):
-    print(i)
+# var=input("How many numbers do you want me to print")
+# for i in range(1-(var-1)):
+#     print(i)
