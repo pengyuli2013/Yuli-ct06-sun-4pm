@@ -21,4 +21,4 @@ var2=input("what is the starting number")
 var3=input("what is the stop number")
 for i in range(var2,var3+1):
     print(i)
-num=n
+num=num=1
