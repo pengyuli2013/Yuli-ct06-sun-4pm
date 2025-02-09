@@ -6,4 +6,5 @@
 for i in range(100):
     print("I love chicken rice")
 for i in range(100):
+    print("i like cake")
     print
