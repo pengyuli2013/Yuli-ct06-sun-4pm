@@ -29,7 +29,7 @@ num=int(input("how tall?"))
 varvar=num-1
 num2=1
 for i in range(num):
-    print(varvar*" "+"*num2"+" "*varvar)
+    print(varvar*" "+"*"*num2+ "*varvar)
     num2=num2+2
 
 # for i in range(5):
