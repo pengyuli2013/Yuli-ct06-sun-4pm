@@ -24,7 +24,7 @@
 # =input("what is da "+str(var)+"num")
 #     var=var+1
 # total=
-n=input
+n=input("")
 
 
 
