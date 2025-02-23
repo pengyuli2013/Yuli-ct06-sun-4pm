@@ -20,7 +20,7 @@ w=input("what maount of times")
 for i in range(int(w)):
     print(n)
 for i in range(5):
-    input("")
+    input("what num u want")
 
 
 
