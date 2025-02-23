@@ -24,7 +24,9 @@
 # =input("what is da "+str(var)+"num")
 #     var=var+1
 # total=
-n=input("")
+n=input("what num for times table")
+for i in range(1,13):
+    
 
 
 
