@@ -27,8 +27,7 @@
 n=input("what num for times table")
 num=1
 for i in range(1,13):
-    
-    print
+    print("")
 
 
 
