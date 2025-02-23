@@ -21,7 +21,7 @@ for i in range(int(w)):
     print(n)
 var=1
 for i in range(5):
-    input("what is da "+str)
+    input("what is da "+str(var))
 
 
 
