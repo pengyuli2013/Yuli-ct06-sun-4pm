@@ -28,7 +28,6 @@ n=int(input("what num for times table"))
 num=1
 for i in range(1,13):
     print(str(n)+"x"+str(num)+"="+str(n*num))
-    print(n*num)
     num=num+1
 
 
