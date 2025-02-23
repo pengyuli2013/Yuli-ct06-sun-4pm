@@ -15,10 +15,10 @@
 #     print(i)
 # for i in range(10,0,-1):
 #     print(i)
-n=input("what is n")
-w=input("what maount of times")
-for i in range(int(w)):
-    print(n)
+# n=input("what is n")
+# w=input("what maount of times")
+# for i in range(int(w)):
+#     print(n)
 var=1
 for i in range(1,6):
     input("what is da "+str(var)+"num")
