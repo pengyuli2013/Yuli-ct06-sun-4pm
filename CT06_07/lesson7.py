@@ -19,8 +19,8 @@ n=input("what is n")
 w=input("what maount of times")
 for i in range(int(w)):
     print(n)
-input("num 1")
-         
+input("num 1?")
+input("num 1?")
 
 
 
