@@ -25,8 +25,9 @@
 #     var=var+1
 # total=
 n=input("what num for times table")
+
 for i in range(1,13):
-    
+    print
 
 
 
