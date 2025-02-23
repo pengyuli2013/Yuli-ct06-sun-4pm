@@ -16,8 +16,8 @@
 # for i in range(10,0,-1):
 #     print(i)
 n=input("what is n")
-w=input("what is n")
-for i in range(3):
+w=input("what maount of times")
+for i in range(w):
     print(n)
          
 
