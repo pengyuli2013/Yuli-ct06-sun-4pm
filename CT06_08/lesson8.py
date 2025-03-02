@@ -6,3 +6,5 @@
 # num5=int(input("what is da fifth num"))
 # num6=str(num1*num2*num3*num4*num5)
 # print("the product is "+num6)
+for i in range(10,2,-1):
+    print(i)
