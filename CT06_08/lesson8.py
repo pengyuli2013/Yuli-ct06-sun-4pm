@@ -8,3 +8,4 @@
 # print("the product is "+num6)
 for i in range(10,2,-1):
     print(i)
+    
