@@ -7,7 +7,7 @@
 # num6=str(num1*num2*num3*num4*num5)
 # print("the product is "+num6)
 import time
-num=str(input("count down from which number"))
+num=int(input("count down from which number"))
 for i in range(num,0,-1):
     print(i)
     time.sleep(1)
