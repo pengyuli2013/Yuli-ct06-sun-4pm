@@ -12,4 +12,4 @@ for i in range(num,0,-60):
     print(i)
     time.sleep(1)
 import random
-random()
+random(1,9999)
