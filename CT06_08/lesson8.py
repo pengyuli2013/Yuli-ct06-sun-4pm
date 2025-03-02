@@ -11,3 +11,4 @@ num=int(input("count down from which number"))
 for i in range(num,0,-60):
     print(i)
     time.sleep(1)
+import random
