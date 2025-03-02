@@ -7,6 +7,6 @@
 # num6=str(num1*num2*num3*num4*num5)
 # print("the product is "+num6)
 import time
-for i in range(10,2,-1):
+for i in range(10,0,-1):
     print(i)
     time.sleep(1)
