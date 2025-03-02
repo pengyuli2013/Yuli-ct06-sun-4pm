@@ -1,2 +1,2 @@
 print("Hello from lesson 8")
-input("")
+input("what is da first num")
