@@ -8,6 +8,6 @@
 # print("the product is "+num6)
 import time
 num=input("count down from which number")
-for i in range(10,0,-1):
+for i in range(num,0,-1):
     print(i)
     time.sleep(1)
