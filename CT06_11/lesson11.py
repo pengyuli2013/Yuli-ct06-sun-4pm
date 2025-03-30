@@ -29,4 +29,4 @@
 var=input("username?")
 var2=input("passvord?")
 if var==john123 and var2==pw123:
-    print
+    print("")
