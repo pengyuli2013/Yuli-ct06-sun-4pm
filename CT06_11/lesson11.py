@@ -8,4 +8,4 @@ elif ans <= 500:
 elif ans > 500:
     "dont even tink about dis"
 else:
-    
+    "skibidi"
