@@ -9,4 +9,5 @@
 #     print("dont even tink about dis")
 # else:
 #     print("skibidi")
-input("")
+num=input("numba")
+if 
