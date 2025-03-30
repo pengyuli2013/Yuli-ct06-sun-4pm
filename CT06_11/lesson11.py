@@ -14,6 +14,6 @@
 #     print("saihdfliushfli")
 age=int(input("age"))
 if age<12 or age>65:
-    "15"
+    print("15")
 else:
-    
+    print("20")
