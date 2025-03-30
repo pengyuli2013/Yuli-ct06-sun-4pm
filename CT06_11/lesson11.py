@@ -31,4 +31,4 @@ var2=input("passvord?")
 if var==john123 and var2==pw123:
     print("access granted")
 elif var!=john123 or var2!=pw123:
-    print("")
+    print("jjjjjjjjjjjj")
