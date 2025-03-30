@@ -21,4 +21,4 @@
 # if not colour=="green":
 #     print("try again")
 food=input("buger?")
-foo
+food1=input(fwies)
