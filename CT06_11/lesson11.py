@@ -1,1 +1,1 @@
-ans=input("")
+ans=input("what is the price of the item?")
