@@ -6,4 +6,4 @@ elif ans <= 50:
 elif ans <= 500:
     "u need dis"
 elif ans > 500:
-    "u need dis"
+    "dont even tink about dis"
