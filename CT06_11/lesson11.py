@@ -15,3 +15,5 @@
 age=int(input("age"))
 if age<12 or age>65:
     "15"
+else:
+    
