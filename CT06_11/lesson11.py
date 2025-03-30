@@ -3,7 +3,7 @@ if ans <= 5:
     "sounds good" 
 elif ans <= 50:
     "u need dis"
-elif ans <= 50:
+elif ans <= 500:
     "u need dis"
 elif ans <= 50:
     "u need dis"
