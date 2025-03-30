@@ -17,4 +17,4 @@
 #     print("15")
 # else:
 #     print("20")
-colour=in
+colour=int(input(""))
