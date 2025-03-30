@@ -12,4 +12,4 @@
 # num=int(input("numba"))
 # if num%3==0 and num%7==0:
 #     print("saihdfliushfli")
-age
+age=input("")
