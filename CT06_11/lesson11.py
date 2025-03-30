@@ -8,4 +8,4 @@ elif ans <= 500:
 elif ans > 500:
     print("dont even tink about dis")
 else:
-    "skibidi"
+    print("skibidi")
