@@ -12,4 +12,6 @@
 # num=int(input("numba"))
 # if num%3==0 and num%7==0:
 #     print("saihdfliushfli")
-age=input("age")
+age=int(input("age"))
+if age<12 or age>65:
+    "15"
