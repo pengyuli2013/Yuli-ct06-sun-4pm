@@ -7,3 +7,5 @@ elif ans <= 500:
     "u rob form bank?"
 elif ans > 500:
     "dont even tink about dis"
+else:
+    
