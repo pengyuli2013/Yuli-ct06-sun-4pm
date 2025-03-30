@@ -20,4 +20,4 @@
 # colour=(input("colour")
 # if not colour=="green":
 #     print("try again")
-food=input
+food=input("buger?")
