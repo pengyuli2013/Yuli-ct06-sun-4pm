@@ -25,4 +25,4 @@ food1=input("fwies")
 drink=input("dwink")
 if food==yes and food1==yes:
     if not drink==yes:
-        print("")
+        print("thirsty")
