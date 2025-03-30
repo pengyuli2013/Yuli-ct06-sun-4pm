@@ -6,6 +6,6 @@ elif ans <= 50:
 elif ans <= 500:
     print("u rob form bank?")
 elif ans > 500:
-    "dont even tink about dis"
+    print("dont even tink about dis")
 else:
     "skibidi"
