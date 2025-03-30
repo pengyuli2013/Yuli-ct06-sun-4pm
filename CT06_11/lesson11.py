@@ -17,4 +17,6 @@
 #     print("15")
 # else:
 #     print("20")
-colour=int(input(""))
+colour=int(input("colour"))
+if not colour=="green":
+    print("try again")
