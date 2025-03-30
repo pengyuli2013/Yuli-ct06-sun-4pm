@@ -26,3 +26,4 @@
 # if food=="yes" and food1=="yes":
 #     if not drink=="yes":
 #         print("thirsty")
+var=input
