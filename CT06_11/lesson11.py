@@ -4,6 +4,6 @@ if ans <= 5:
 elif ans <= 50:
     "u need dis"
 elif ans <= 500:
-    "u need dis"
+    "u rob form bank?"
 elif ans > 500:
     "dont even tink about dis"
