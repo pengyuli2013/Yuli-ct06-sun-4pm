@@ -22,4 +22,4 @@
 #     print("try again")
 food=input("buger?")
 food1=input("fwies")
-drink=input()
+drink=input("d")
