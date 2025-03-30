@@ -4,7 +4,7 @@ if ans <= 5:
 elif ans <= 50:
     print("u need dis")
 elif ans <= 500:
-    "u rob form bank?"
+    print("u rob form bank?")
 elif ans > 500:
     "dont even tink about dis"
 else:
