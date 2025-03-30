@@ -24,5 +24,5 @@ food=input("buger?")
 food1=input("fwies")
 drink=input("dwink")
 if food=="yes" and food1=="yes":
-    if not not drink==no:
+    if not not drink=="no":
         print("thirsty")
