@@ -27,4 +27,4 @@
 #     if not drink=="yes":
 #         print("thirsty")
 var=input("username?")
-var2=input("")
+var2=input("passvord?")
