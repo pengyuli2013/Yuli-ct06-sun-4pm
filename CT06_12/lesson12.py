@@ -30,6 +30,6 @@
 #     I. Increase the visitor count by 1
 #     II. Print the visitor count
 visitors=0
-while 51 >visitors:
+while 50 >visitors:
     visitors=visitors+1
     print(visitors)
