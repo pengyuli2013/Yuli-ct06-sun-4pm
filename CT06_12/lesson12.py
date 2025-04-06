@@ -43,10 +43,10 @@
 # Visitors already present: 4
 # Max visitors allowed: 25
 
-visitors=0
-while visitors < 50:
-    visitors=visitors+1
-    print(visitors)
+# visitors=0
+# while visitors < 50:
+#     visitors=visitors+1
+#     print(visitors)
 visitors=0
 while visitors < 50:
     visitors=visitors+1
