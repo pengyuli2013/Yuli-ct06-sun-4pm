@@ -29,7 +29,32 @@
 # 2. While there is less than 50 visitors,
 #     I. Increase the visitor count by 1
 #     II. Print the visitor count
+
+# (For Task 1b & 1c)
+# Modify your program to account for the number of visitors
+# already present at the venue, and the number of maximum visitors
+# allowed for the following:
+
+# **Task 1b**:
+# Visitors already present: 18
+# Max visitors allowed: 30
+
+# **Task 1c**:
+# Visitors already present: 4
+# Max visitors allowed: 25
+
 visitors=0
-while 50 >visitors:
+while visitors < 50:
     visitors=visitors+1
     print(visitors)
+while True:
+    print('Your score is so far ' + str(myScore) + '.')
+    print("Would you like to roll or quit?")
+    ans = input("Roll...")
+    if ans == 'R':
+        R = random.randint(1, 8)
+        print("You rolled a " + str(R) + ".")
+        myScore = R + myScore
+    if ans == 'Q':
+        print("Now I'll see if I can break your score...")
+        break
