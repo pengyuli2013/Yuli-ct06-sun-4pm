@@ -91,5 +91,5 @@ while visitors < 25:
 while order != "end":
     order=input("foood????")
     order=order+","+order
-
+print
 
