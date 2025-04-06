@@ -48,9 +48,3 @@ while True:
     print("Would you like to roll or quit?")
     ans = input("Roll...")
     if ans == 'R':
-        R = random.randint(1, 8)
-        print("You rolled a " + str(R) + ".")
-        myScore = R + myScore
-    if ans == 'Q':
-        print("Now I'll see if I can break your score...")
-        break
