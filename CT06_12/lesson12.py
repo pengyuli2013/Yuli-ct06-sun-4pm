@@ -10,4 +10,6 @@
 #     If true, print "The number is divisible by 3 and 5!"
 # 3. Else, print "The number is not divisible by 3 and 5"
 
-input("number?")
+ans=int(input("number?"))
+if ans/3==0 and ans/5==0:
+    print("divisible")
