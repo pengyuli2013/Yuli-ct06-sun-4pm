@@ -13,3 +13,5 @@
 ans=int(input("number?"))
 if ans/3==0 and ans/5==0:
     print("divisible")
+else:
+    print("")
