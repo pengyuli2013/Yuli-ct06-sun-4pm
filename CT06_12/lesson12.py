@@ -31,4 +31,5 @@
 #     II. Print the visitor count
 visitors=0
 while 51 >visitors:
-    visitors
+    visitors=visitors+1
+    
