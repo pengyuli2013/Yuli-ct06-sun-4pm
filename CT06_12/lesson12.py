@@ -51,6 +51,6 @@ visitors=0
 while visitors < 50:
     visitors=visitors+1
     print(visitors)
-    if visitors>30:
+    if visitors>29:
         break
 
