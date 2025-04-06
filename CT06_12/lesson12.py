@@ -113,3 +113,6 @@ while visitors < 25:
 
 # Observe that "Happy New Year!" is no longer printed
 
+num=10
+while num!=0:
+    print(num)
