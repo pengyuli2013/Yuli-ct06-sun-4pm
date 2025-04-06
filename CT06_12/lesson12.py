@@ -11,7 +11,7 @@
 # 3. Else, print "The number is not divisible by 3 and 5"
 
 ans=int(input("number?"))
-if ans3==0 and ans/5==0:
+if ans%3==0 and ans%5==0:
     print("divisible")
 else:
     print("not divisible")
