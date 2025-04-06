@@ -56,10 +56,19 @@ while visitors < 25:
 # while visitors < 50:
 #     visitors=visitors+1
 #     print(visitors)
+
+# Task 2: while... break
+# A restaurant used to have a max capacity of 50. However, due to
+# the worsening of the pandemic, the government has restricted the
+# max capacity of the restaurant to 30.
+
+# Using an 'if' condition and 'break' within the 'while' loop,
+# modify your answer for Task 1a to terminate the 'while' loop when
+# number of visitors is 30.
 visitors=0
 while visitors < 50:
     visitors=visitors+1
     print(visitors)
-    if visitors>29:
+    if visitors==30:
         break
 
