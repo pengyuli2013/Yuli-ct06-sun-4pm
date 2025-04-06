@@ -43,10 +43,6 @@
 # Visitors already present: 4
 # Max visitors allowed: 25
 
-visitors=0
-while visitors < 50:
-    visitors=visitors+1
-    print(visitors)
 while True:
     print('Your score is so far ' + str(myScore) + '.')
     print("Would you like to roll or quit?")
