@@ -38,8 +38,8 @@
 # **Task 1b**:
 # Visitors already present: 18
 # Max visitors allowed: 30
-visitors=0
-while visitors < 50:
+visitors=18
+while visitors < 30:
     visitors=visitors+1
     print(visitors)
 
