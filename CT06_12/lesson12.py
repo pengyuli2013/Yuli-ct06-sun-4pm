@@ -90,4 +90,3 @@ while visitors < 25:
 #    either at the start or end of your sentence
 if order != end:
     order=input("foood????")
-order=input("foood????")
