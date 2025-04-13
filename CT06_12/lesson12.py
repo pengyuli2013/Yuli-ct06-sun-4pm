@@ -187,4 +187,4 @@ groceries=[
 "g",
 "h",
 ]
-grocer
+groceries[0]="herbs"
