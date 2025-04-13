@@ -148,6 +148,6 @@ while True:
         print("gud")
         break
     else:
-        print
+        print("wrong")
 
     
