@@ -147,6 +147,7 @@ while True:
     if var==num1+num2:
         print("gud")
         break
-    
+    else:
+        print
 
     
