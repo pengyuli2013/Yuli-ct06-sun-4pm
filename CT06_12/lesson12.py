@@ -143,5 +143,6 @@ import random
 num1=random.randint()
 num2=random.randint()
 while True:
-    input("what is ans")
+    var=input("what is ans")
+    
     
