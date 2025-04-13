@@ -1,12 +1,2 @@
-print("Hello from lesson 13")
-
-
-
-
-
-
-
-
-
-
-
+print("Hello from lesson 13
+      
