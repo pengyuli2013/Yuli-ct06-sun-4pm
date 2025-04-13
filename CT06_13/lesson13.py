@@ -14,3 +14,5 @@ groceries = [
 # print(groceries)
 # groceries.insert(1,"bananana")
 # del
+for grocery in groceries:
+    print(grocery)
