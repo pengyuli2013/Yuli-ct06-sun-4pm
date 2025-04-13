@@ -178,7 +178,7 @@ while visitors < 25:
 #     print(num)
 
 groceries=[
-a,
+"a",
 b,
 c,
 d,
