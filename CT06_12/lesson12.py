@@ -176,5 +176,5 @@ num2=input("num?")
 num=0
 while num2!=num:
     num=random.randint(1,6)
-    
+    print(num)
 
