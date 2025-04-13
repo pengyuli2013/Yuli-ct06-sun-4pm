@@ -173,3 +173,4 @@ while True:
 import random
 
 num2=input("num?")
+num=ran
