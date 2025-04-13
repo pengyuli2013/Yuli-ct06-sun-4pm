@@ -173,7 +173,7 @@ while visitors < 25:
 import random
 
 num = 0
-while num2!=num:
+while num!=4:
     num=random.randint(1,6)
     print(num)
 
