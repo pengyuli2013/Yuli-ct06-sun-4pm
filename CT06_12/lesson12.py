@@ -172,8 +172,7 @@ while visitors < 25:
 #    and print "You have won the jackpot!"    
 import random
 
-num2=input("num?")
-num=4
+num = 0
 while num2!=num:
     num=random.randint(1,6)
     print(num)
