@@ -17,6 +17,8 @@ groceries = [
 for grocery in groceries:
     if grocery=="Apples":
         print("Apples: I need five of These")
-elif:
+    elif grocery=="Carrots":
+        print
+    
 
     print(grocery)
