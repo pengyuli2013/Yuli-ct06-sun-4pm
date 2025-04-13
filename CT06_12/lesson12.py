@@ -143,6 +143,7 @@ import random
 num1=random.randint()
 num2=random.randint()
 while True:
-    var=input("what is ans")
+    var=int(input("what is ans"))
     
+
     
