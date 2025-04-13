@@ -143,4 +143,4 @@ import random
 num1=random.randint()
 num2=random.randint()
 while True:
-    inp
+    input
