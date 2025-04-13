@@ -146,6 +146,7 @@ while True:
     var=int(input("what is ans"))
     if var==num1+num2:
         print("gud")
-        
+        break
+    
 
     
