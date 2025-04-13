@@ -178,5 +178,7 @@ while visitors < 25:
 #     print(num)
 
 groceries=[
-ap
+apples
+bread
+
 ]
