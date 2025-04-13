@@ -139,16 +139,16 @@ while visitors < 25:
 # else:
 #     print("happy new year")
 #     break
-import random
-num1=random.randint(1,10)
-num2=random.randint(1,10)
-while True:
-    var=int(input("what is ans"))
-    if var==num1+num2:
-        print("gud")
-        break
-    else:
-        print("wrong")
+# import random
+# num1=random.randint(1,10)
+# num2=random.randint(1,10)
+# while True:
+#     var=int(input("what is ans"))
+#     if var==num1+num2:
+#         print("gud")
+#         break
+#     else:
+#         print("wrong")
 
 # Task 6: Dice Roll till 4
 # Using 'while' loop and the 'random.randint()' function from the
