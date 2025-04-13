@@ -170,3 +170,5 @@ while True:
 #    until (instead of '4' all the time).
 # 3. Break out of the 'while' loop if counter variable reaches 10
 #    and print "You have won the jackpot!"    
+import random
+num
