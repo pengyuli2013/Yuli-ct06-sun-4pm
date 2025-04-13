@@ -177,3 +177,4 @@ while visitors < 25:
 #     num=random.randint(1,6)
 #     print(num)
 
+groceries=[]
