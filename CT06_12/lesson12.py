@@ -173,4 +173,4 @@ while True:
 import random
 
 num2=input("num?")
-num=random.randint
+num=random.randint(1,6)
