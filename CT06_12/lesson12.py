@@ -179,8 +179,8 @@ while visitors < 25:
 
 groceries=[
 "a",
-b,
-c,
+"b",
+"c",
 d,
 e,
 f,
