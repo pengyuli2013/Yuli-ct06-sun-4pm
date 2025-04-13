@@ -172,4 +172,4 @@ while True:
 #    and print "You have won the jackpot!"    
 import random
 num=0
-ij
+input
