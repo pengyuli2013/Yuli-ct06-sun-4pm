@@ -177,15 +177,15 @@ while visitors < 25:
 #     num=random.randint(1,6)
 #     print(num)
 
-groceries=[
-"a",
-"b",
-"c",
-"d",
-"e",
-"f",
-"g",
-"h",
+groceries = [
+    "Apples",
+    "Bread",
+    "Carrots",
+    "Dates",
+    "Eggs",
+    "Flour",
+    "Grapes",
+    "Honey"
 ]
 groceries.insert(1,"bananana")
 groceries.append("ice")
@@ -193,3 +193,11 @@ groceries[7]="herbs"
 print(groceries)
 groceries.insert(1,"bananana")
 del(groceries[1])
+
+# Task 2: List of groceries (part 2)
+# 1. Use a 'for' loop and print out all the groceries on your list
+# 2. If grocery == "Apples", print "<grocery name>: I need 5 of these"
+# 3. If grocery == "Carrots", print "<grocery name>: I need 3 of
+#    these"
+# 4. If name == "Grapes", print "<grocery name>: Get the FarmFresh
+#    brand"
