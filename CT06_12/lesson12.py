@@ -140,7 +140,7 @@ while visitors < 25:
 #     print("happy new year")
 #     break
 import random
-num1=random.randint()
+num1=random.randint(1,10)
 num2=random.randint()
 while True:
     var=int(input("what is ans"))
