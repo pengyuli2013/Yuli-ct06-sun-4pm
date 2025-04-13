@@ -188,3 +188,4 @@ groceries=[
 "h",
 ]
 groceries[7]="herbs"
+print(groceries)
