@@ -119,3 +119,4 @@ while num!=0:
     num=num-1
 else:
     print("happy new year")
+    break
