@@ -190,4 +190,4 @@ groceries=[
 groceries.append("ice")
 groceries[7]="herbs"
 print(groceries)
-groceries.insert
+groceries.insert(0,)
