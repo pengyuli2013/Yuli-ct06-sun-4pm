@@ -189,4 +189,4 @@ groceries=[
 ]
 groceries[7]="herbs"
 print(groceries)
-groceries.append("orange")
+groceries.append("")
