@@ -144,6 +144,8 @@ num1=random.randint()
 num2=random.randint()
 while True:
     var=int(input("what is ans"))
-    
+    if var==num1+num2:
+        print("gud")
+        
 
     
