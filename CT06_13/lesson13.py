@@ -36,8 +36,6 @@ list=[]
 for i in list:
     if var=="end":
         break
-for i in list:
-    print(i)
     print(i)
     var=input("item?")
     list.insert(1,var)
