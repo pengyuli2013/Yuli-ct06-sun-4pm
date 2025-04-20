@@ -54,4 +54,4 @@ var2=input("item?")
 if var2 in list:
     print("yus")
 else:
-    print("")
+    print("no")
