@@ -20,8 +20,9 @@ window.setup(width=600,height=400)
 # **Task 3a**: Draw a line
 # Number of sides: 1
 # Interior angle: NA
-
+turtle.forward
 # **Task 3b**: Draw a triangle
+
 # Number of sides: 3
 # Interior angle: 120
 
