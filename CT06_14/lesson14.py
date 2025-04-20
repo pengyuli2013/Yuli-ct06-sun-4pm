@@ -44,34 +44,34 @@ window.setup(width=600,height=400)
 
 # **Task 3d**: Draw a pentagon
 # Number of sides: 5
-# Interior angle: 72
+# Interior angle: 60
 t.forward(10)
-t.seth(72)
+t.seth(60)
 t.forward(10)
-t.seth(72)
+t.seth(60)
 t.forward(10)
-t.seth(72)
+t.seth(60)
 t.forward(10)
-t.seth(72)
+t.seth(60)
 t.forward(10)
-t.seth(72)
+t.seth(60)
 
 
 # **Task 3e**: Draw a hexagon
 # Number of sides: 6
 # Interior angle: 60
 t.forward(10)
-t.seth(72)
+t.seth(60)
 t.forward(10)
-t.seth(72)
+t.seth(60)
 t.forward(10)
-t.seth(72)
+t.seth(60)
 t.forward(10)
-t.seth(72)
+t.seth(60)
 t.forward(10)
-t.seth(72)
+t.seth(60)
 t.forward(10)
-t.seth(72)
+t.seth(60)
 
 
 
