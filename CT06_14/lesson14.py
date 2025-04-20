@@ -50,11 +50,11 @@ t.seth(72)
 t.forward(10)
 t.seth(72)
 t.forward(10)
-t.seth(108)
+t.seth(72)
 t.forward(10)
-t.seth(108)
+t.seth(72)
 t.forward(10)
-t.seth(108)
+t.seth(72)
 
 
 # **Task 3e**: Draw a hexagon
