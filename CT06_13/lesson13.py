@@ -34,12 +34,13 @@ groceries = [
 # 4. End the loop when the user types "end"
 list=[]
 while True:
-    var=input("item?")
-    list.insert(1,var)
     if var=="end":
         break
 for i in list:
     print(i)
+    var=input("item?")
+    list.insert(1,var)
+    
 
 # **Task 4b**:
 # Based on the list created by the grocery store manager, do the
