@@ -47,9 +47,9 @@ turtle.seth(90)
 # Number of sides: 5
 # Interior angle: 72
 turtle.forward(10)
-turtle.seth(72)
+turtle.seth(108)
 turtle.forward(10)
-turtle.seth(72)
+turtle.seth()
 turtle.forward(10)
 turtle.seth(72)
 turtle.forward(10)
