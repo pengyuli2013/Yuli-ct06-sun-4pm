@@ -34,7 +34,10 @@ groceries = [
 # 4. End the loop when the user types "end"
 list=[]
 while True:
-    
+    if var=="end":
+        break
+for i in list:
+    print(i)
     var=input("item?")
     list.insert(1,var)
     
