@@ -52,4 +52,6 @@ for i in list:
 # 3. Else, say "Sorry, we don't have that."
 var2=input("item?")
 if var2 in list:
-    
+    print("yus")
+else:
+    print("")
