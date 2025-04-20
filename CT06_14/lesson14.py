@@ -60,6 +60,20 @@ t.seth(72)
 # **Task 3e**: Draw a hexagon
 # Number of sides: 6
 # Interior angle: 60
+t.forward(10)
+t.seth(72)
+t.forward(10)
+t.seth(72)
+t.forward(10)
+t.seth(72)
+t.forward(10)
+t.seth(72)
+t.forward(10)
+t.seth(72)
+t.forward(10)
+t.seth(72)
+
+
 
 
 
