@@ -23,7 +23,7 @@ window.setup(width=600,height=400)
 turtle.forward
 # **Task 3b**: Draw a triangle
 turtle.forward
-turtle.seth()
+turtle.seth(60)
 # Number of sides: 3
 # Interior angle: 120
 
