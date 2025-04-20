@@ -46,9 +46,9 @@ window.setup(width=600,height=400)
 # Number of sides: 5
 # Interior angle: 72
 t.forward(10)
-t.seth(108)
+t.seth(72)
 t.forward(10)
-t.seth(108)
+t.seth(72)
 t.forward(10)
 t.seth(108)
 t.forward(10)
