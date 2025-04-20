@@ -1,5 +1,5 @@
 print("Hello from lesson 15")
-turtle
+turtle.screen
 import turtle
 t=turtle.Turtle()
 turtle.shape("square")
