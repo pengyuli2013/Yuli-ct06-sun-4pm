@@ -50,8 +50,8 @@ for i in list:
 #    Ask the customer: "What are you looking for?"
 # 2. If the item is in the list, say "Yes we sell that."
 # 3. Else, say "Sorry, we don't have that."
-var2=input("item?")
-if var2 in list:
-    print("yus")
-else:
-    print("no")
+# var2=input("item?")
+# if var2 in list:
+#     print("yus")
+# else:
+#     print("no")
