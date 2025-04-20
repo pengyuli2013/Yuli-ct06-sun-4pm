@@ -55,3 +55,4 @@ for i in list:
 #     print("yus")
 # else:
 #     print("no")
+window=tru
