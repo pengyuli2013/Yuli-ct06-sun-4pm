@@ -35,6 +35,7 @@ for grocery in groceries:
 list=[]
 while True:
     var=input("item?")
+    inser
 
 
 # **Task 4b**:
