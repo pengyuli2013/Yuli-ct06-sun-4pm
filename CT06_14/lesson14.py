@@ -37,11 +37,11 @@ turtle.seth(60)
 turtle.forward(10)
 turtle.seth(90)
 turtle.forward(10)
-turtle.seth(60)
+turtle.seth(90)
 turtle.forward(10)
-turtle.seth(60)
+turtle.seth(90)
 turtle.forward(10)
-turtle.seth(60)
+turtle.seth(90)
 
 # **Task 3d**: Draw a pentagon
 # Number of sides: 5
