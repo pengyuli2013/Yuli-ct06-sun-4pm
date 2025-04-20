@@ -24,7 +24,10 @@ turtle.forward(10)
 # **Task 3b**: Draw a triangle
 turtle.forward(10)
 turtle.seth(60)
-
+turtle.forward(10)
+turtle.seth(60)
+turtle.forward(10)
+turtle.seth(60)
 # Number of sides: 3
 # Interior angle: 120
 
