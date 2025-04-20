@@ -38,7 +38,8 @@ while True:
     list.insert(1,var)
     if var=="end":
         break
-
+for i in list:
+    
 
 # **Task 4b**:
 # Based on the list created by the grocery store manager, do the
