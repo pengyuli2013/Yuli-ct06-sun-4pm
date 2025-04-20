@@ -34,6 +34,14 @@ turtle.seth(60)
 # **Task 3c**: Draw a square
 # Number of sides: 4
 # Interior angle: 90
+turtle.forward(10)
+turtle.seth(60)
+turtle.forward(10)
+turtle.seth(60)
+turtle.forward(10)
+turtle.seth(60)
+turtle.forward(10)
+turtle.seth(60)
 
 # **Task 3d**: Draw a pentagon
 # Number of sides: 5
