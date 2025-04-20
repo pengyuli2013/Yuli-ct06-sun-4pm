@@ -46,6 +46,8 @@ turtle.seth(90)
 # **Task 3d**: Draw a pentagon
 # Number of sides: 5
 # Interior angle: 72
+turtle.forward(10)
+turtle.seth(60)
 
 # **Task 3e**: Draw a hexagon
 # Number of sides: 6
