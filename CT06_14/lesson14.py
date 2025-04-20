@@ -20,28 +20,28 @@ window.setup(width=600,height=400)
 # **Task 3a**: Draw a line
 # Number of sides: 1
 # Interior angle: NA
-turtle.forward(10)
-# **Task 3b**: Draw a triangle
-turtle.forward(10)
-turtle.seth(60)
-turtle.forward(10)
-turtle.seth(60)
-turtle.forward(10)
-turtle.seth(60)
-# Number of sides: 3
-# Interior angle: 120
+# turtle.forward(10)
+# # **Task 3b**: Draw a triangle
+# turtle.forward(10)
+# turtle.seth(60)
+# turtle.forward(10)
+# turtle.seth(60)
+# turtle.forward(10)
+# turtle.seth(60)
+# # Number of sides: 3
+# # Interior angle: 120
 
-# **Task 3c**: Draw a square
-# Number of sides: 4
-# Interior angle: 90
-turtle.forward(10)
-turtle.seth(90)
-turtle.forward(10)
-turtle.seth(90)
-turtle.forward(10)
-turtle.seth(90)
-turtle.forward(10)
-turtle.seth(90)
+# # **Task 3c**: Draw a square
+# # Number of sides: 4
+# # Interior angle: 90
+# turtle.forward(10)
+# turtle.seth(90)
+# turtle.forward(10)
+# turtle.seth(90)
+# turtle.forward(10)
+# turtle.seth(90)
+# turtle.forward(10)
+# turtle.seth(90)
 
 # **Task 3d**: Draw a pentagon
 # Number of sides: 5
