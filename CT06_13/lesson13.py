@@ -36,6 +36,8 @@ list=[]
 while True:
     var=input("item?")
     list.insert(1,var)
+    if var=="end":
+        break
 
 
 # **Task 4b**:
