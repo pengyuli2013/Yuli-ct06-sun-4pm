@@ -36,10 +36,10 @@ list=[]
 while True:
     if var=="end":
         break
-for i in list:
-    print(i)
     var=input("item?")
     list.insert(1,var)
+for i in list:
+    print(i)
     
 
 # **Task 4b**:
