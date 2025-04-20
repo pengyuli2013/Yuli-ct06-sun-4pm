@@ -49,6 +49,7 @@ turtle.seth(90)
 turtle.forward(10)
 turtle.seth(60)
 
+
 # **Task 3e**: Draw a hexagon
 # Number of sides: 6
 # Interior angle: 60
