@@ -22,7 +22,7 @@ window.setup(width=600,height=400)
 # Interior angle: NA
 turtle.forward
 # **Task 3b**: Draw a triangle
-
+turtle.forward
 # Number of sides: 3
 # Interior angle: 120
 
