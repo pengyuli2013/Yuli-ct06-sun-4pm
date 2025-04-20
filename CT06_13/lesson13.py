@@ -33,13 +33,13 @@ groceries = [
 # 3. Add each item into the catalogue list
 # 4. End the loop when the user types "end"
 list=[]
-for i in list:
-    if var=="end":
-        break
-    print(i)
+while True:
     var=input("item?")
     list.insert(1,var)
-    
+    if var=="end":
+        break
+for i in list:
+    print(i)
 
 # **Task 4b**:
 # Based on the list created by the grocery store manager, do the
