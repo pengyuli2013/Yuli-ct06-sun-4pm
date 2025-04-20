@@ -39,7 +39,7 @@ while True:
     if var=="end":
         break
 for i in list:
-    
+    print(i)
 
 # **Task 4b**:
 # Based on the list created by the grocery store manager, do the
