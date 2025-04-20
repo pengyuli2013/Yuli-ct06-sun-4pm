@@ -33,7 +33,8 @@ for grocery in groceries:
 # 3. Add each item into the catalogue list
 # 4. End the loop when the user types "end"
 while True:
-    var=input("")
+    var=input("item?")
+    
 
 # **Task 4b**:
 # Based on the list created by the grocery store manager, do the
