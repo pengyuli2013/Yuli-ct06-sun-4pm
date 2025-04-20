@@ -73,4 +73,5 @@ t.seth(72)
 
 
 
+
 window.mainloop()
