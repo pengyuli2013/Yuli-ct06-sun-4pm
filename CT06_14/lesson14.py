@@ -53,9 +53,9 @@ turtle.seth(108)
 turtle.forward(10)
 turtle.seth(108)
 turtle.forward(10)
-turtle.seth(72)
+turtle.seth(108)
 turtle.forward(10)
-turtle.seth(72)
+turtle.seth(108)
 
 
 # **Task 3e**: Draw a hexagon
