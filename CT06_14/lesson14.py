@@ -102,7 +102,7 @@ t.sety(-200)
 #         t.penup()
 #     t.sety(y-40)
 #     t.write(t.pos(),align="centre")
-
+xlimit=2
 
 
 
