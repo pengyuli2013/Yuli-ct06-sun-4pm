@@ -89,8 +89,10 @@ t.sety(-200)
 # t.seth(60)
 # t.forward(10)
 # t.seth(60)
+import random
+for i in range(10):
+    x=
 
-r
 
 
 
