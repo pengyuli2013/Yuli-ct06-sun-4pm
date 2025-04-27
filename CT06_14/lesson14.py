@@ -39,7 +39,7 @@ t.fillcolor("orange")
 t.goto(-300,0)
 t.sety(300)
 t.penup()
-t.goto(0,500)
+t.goto(0,1000)
 t.pendown()
 t.goto(0,-500)
 
