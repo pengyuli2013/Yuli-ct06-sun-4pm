@@ -36,9 +36,11 @@ t.fillcolor("orange")
 # for i in range(360):
 #     t.forward(1)
 #     t.left(1)
+
+t.penup()
 t.goto(-300,0)
 t.sety(300)
-t.penup()
+
 t.goto(0,1000)
 t.pendown()
 t.goto(0,-1000)
