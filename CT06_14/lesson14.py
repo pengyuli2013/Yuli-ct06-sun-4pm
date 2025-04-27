@@ -89,19 +89,19 @@ t.sety(-200)
 # t.seth(60)
 # t.forward(10)
 # t.seth(60)
-import random
-for i in range(10):
-    x=random.randint(-280,280)
-    y=random.randint(-280,280)
-    t.penup()
-    t.goto(x,y)
-    t.pendown()
-    for i in range(4):
-        t.forward(10)
-        t.seth(90)
-        t.penup()
-    t.sety(y-40)
-    t.write(t.pos(),align="centre")
+# import random
+# for i in range(10):
+#     x=random.randint(-280,280)
+#     y=random.randint(-280,280)
+#     t.penup()
+#     t.goto(x,y)
+#     t.pendown()
+#     for i in range(4):
+#         t.forward(10)
+#         t.seth(90)
+#         t.penup()
+#     t.sety(y-40)
+#     t.write(t.pos(),align="centre")
 
 
 
