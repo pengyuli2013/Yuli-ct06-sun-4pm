@@ -35,7 +35,7 @@ t.fillcolor("orange")
 
 for i in range(360):
     t.forward(100)
-    t.left(60)
+    t.left(1)
 
 # # **Task 3c**: Draw a square
 # # Number of sides: 4
