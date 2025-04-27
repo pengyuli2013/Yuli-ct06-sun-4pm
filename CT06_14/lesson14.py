@@ -52,48 +52,48 @@ for i in range(3):
 # **Task 3d**: Draw a pentagon
 # Number of sides: 5
 # Interior angle: 60
-t.forward(10)
-t.seth(60)
-t.forward(10)
-t.seth(60)
-t.forward(10)
-t.seth(60)
-t.forward(10)
-t.seth(60)
-t.forward(10)
-t.seth(60)
+# t.forward(10)
+# t.seth(60)
+# t.forward(10)
+# t.seth(60)
+# t.forward(10)
+# t.seth(60)
+# t.forward(10)
+# t.seth(60)
+# t.forward(10)
+# t.seth(60)
 
 
-# **Task 3e**: Draw a hexagon
-# Number of sides: 6
-# Interior angle: 60
-t.forward(10)
-t.seth(60)
-t.forward(10)
-t.seth(60)
-t.forward(10)
-t.seth(60)
-t.forward(10)
-t.seth(60)
-t.forward(10)
-t.seth(60)
-t.forward(10)
-t.seth(60)
-
-
-
-
-
-# **Task 3f**: Draw a circle
-# Number of sides: 360
-# Interior angle: 1
+# # **Task 3e**: Draw a hexagon
+# # Number of sides: 6
+# # Interior angle: 60
+# t.forward(10)
+# t.seth(60)
+# t.forward(10)
+# t.seth(60)
+# t.forward(10)
+# t.seth(60)
+# t.forward(10)
+# t.seth(60)
+# t.forward(10)
+# t.seth(60)
+# t.forward(10)
+# t.seth(60)
 
 
 
-for i in range(1,11):
-    print(i)
-for i in range(1,11,2):
-    print(i)
+
+
+# # **Task 3f**: Draw a circle
+# # Number of sides: 360
+# # Interior angle: 1
+
+
+
+# for i in range(1,11):
+#     print(i)
+# for i in range(1,11,2):
+#     print(i)
 
 
 
