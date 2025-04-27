@@ -33,7 +33,7 @@ t.fillcolor("orange")
 # # Number of sides: 3
 # # Interior angle: 120
 
-for i in range(3):
+for i in range():
     t.forward(100)
     t.left(60)
 
