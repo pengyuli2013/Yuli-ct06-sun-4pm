@@ -107,6 +107,7 @@ ylimit=180
 t.penup
 t.goto(xlimit,ylimit)
 while True:
+    pen
     if t.xcor()<xlimit:
         t.forward(50)
         t.left(90)
