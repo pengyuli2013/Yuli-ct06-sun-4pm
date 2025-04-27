@@ -105,7 +105,9 @@ t.sety(-200)
 xlimit=180
 ylimit=180
 t.goto(xlimit,ylimit)
-w
+while True:
+    if t.xcor()<xlimit:
+        
 
 
 
