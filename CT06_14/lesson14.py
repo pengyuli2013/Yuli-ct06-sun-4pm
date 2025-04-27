@@ -42,8 +42,8 @@ t.goto(-300,0)
 t.pendown()
 t.setx(300)
 
-
-t.goto(0,1000)
+t.penup()
+t.goto(0,200)
 t.pendown()
 t.goto(0,-1000)
 
