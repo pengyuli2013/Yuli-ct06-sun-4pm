@@ -34,7 +34,7 @@ t.fillcolor("orange")
 # # Interior angle: 120
 
 for i in range(360):
-    t.forward(100)
+    t.forward(1)
     t.left(1)
 
 # # **Task 3c**: Draw a square
