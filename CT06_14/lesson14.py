@@ -104,7 +104,7 @@ t.sety(-200)
 #     t.write(t.pos(),align="centre")
 xlimit=180
 ylimit=180
-
+t.goto()
 
 
 
