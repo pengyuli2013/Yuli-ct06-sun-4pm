@@ -34,7 +34,7 @@ t.fillcolor("orange")
 # # Interior angle: 120
 
 for i in range(3):
-    t.e
+    t.left()
 
 # # **Task 3c**: Draw a square
 # # Number of sides: 4
