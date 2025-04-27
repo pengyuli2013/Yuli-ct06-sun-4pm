@@ -45,7 +45,7 @@ t.setx(300)
 t.penup()
 t.goto(0,200)
 t.pendown()
-t.goto(0,-1000)
+t.sety(-200)
 
 # # **Task 3c**: Draw a square
 # # Number of sides: 4
