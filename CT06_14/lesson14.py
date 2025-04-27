@@ -108,8 +108,8 @@ t.penup
 t.goto(xlimit,ylimit)
 while True:
     t.pendown
-    if t.xcor()<xlimit:
-        t.forward(50)
+    while t.xcor()<x_limit:
+        t.forward(1)
         t.left(90)
 
 
