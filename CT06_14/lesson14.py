@@ -107,7 +107,7 @@ ylimit=180
 t.goto(xlimit,ylimit)
 while True:
     if t.xcor()<xlimit:
-        
+        t.forward(50)
 
 
 
