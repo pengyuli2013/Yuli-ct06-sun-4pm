@@ -39,11 +39,12 @@ t.fillcolor("orange")
 
 t.penup()
 t.goto(-300,0)
+t.pendown()
 t.setx(300)
 
-t.goto(0,1000)
-t.pendown()
-t.goto(0,-1000)
+# t.goto(0,1000)
+# t.pendown()
+# t.goto(0,-1000)
 
 # # **Task 3c**: Draw a square
 # # Number of sides: 4
