@@ -38,7 +38,7 @@ t.fillcolor("orange")
 #     t.left(1)
 t.goto(-300,0)
 t.sety(300)
-
+t.pen
 # # **Task 3c**: Draw a square
 # # Number of sides: 4
 # # Interior angle: 90
