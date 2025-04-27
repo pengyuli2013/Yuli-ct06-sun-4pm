@@ -93,8 +93,13 @@ import random
 for i in range(10):
     x=random.randint(-280,280)
     y=random.randint(-280,280)
+    t.penup()
     t.goto(x,y)
-    
+    t.pendown()
+    for i in range(4):
+        t.forward(10)
+        t.seth(90)
+    t.write(t.pos(),align="centre")
 
 
 
