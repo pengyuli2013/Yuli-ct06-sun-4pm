@@ -104,6 +104,7 @@ t.fillcolor("orange")
 #     t.write(t.pos(),align="centre")
 xlimit=180
 ylimit=180
+t.penup
 t.goto(xlimit,ylimit)
 while True:
     if t.xcor()<xlimit:
