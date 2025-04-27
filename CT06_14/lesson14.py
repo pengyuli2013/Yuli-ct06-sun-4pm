@@ -99,7 +99,7 @@ for i in range(10):
     for i in range(4):
         t.forward(10)
         t.seth(90)
-        t.set
+        t.sety(y-40)
     t.write(t.pos(),align="centre")
 
 
