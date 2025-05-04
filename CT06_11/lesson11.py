@@ -16,4 +16,4 @@
 
 
 planets = ["mercury","venus", "earth", "mars", "jupiter", "saturn", "uranus" ]
-list.append
+list.append("")
