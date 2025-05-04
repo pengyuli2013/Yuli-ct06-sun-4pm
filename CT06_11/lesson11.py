@@ -12,7 +12,8 @@
 #     print("Access Granted")
 # else:
 #     print("Access denied")
+#
 #task 2
 
 
-question2
+planets = ["mercury","venus", "earth", "mars", "jupiter", "saturn", "uranus" ]
