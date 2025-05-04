@@ -7,5 +7,6 @@ while True:
 #task 1
 
 password="superpass123"
-input("password?")
-
+ans=input("password?")
+if ans==password:
+    print("")
