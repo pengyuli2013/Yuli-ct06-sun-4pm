@@ -10,3 +10,5 @@ password="superpass123"
 ans=input("password?")
 if ans==password:
     print("Access Granted")
+else:
+    print()
