@@ -20,3 +20,4 @@ planets.append("neptune")
 planets[3]="muskworld"
 planets.pop[6]
 for i in planets:
+    print(i)
