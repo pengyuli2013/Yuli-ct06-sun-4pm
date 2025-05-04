@@ -7,4 +7,4 @@ while True:
 #task 1
 
 password="superpass123"
-input("hello")
+input("password")
