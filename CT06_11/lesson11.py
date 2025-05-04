@@ -12,3 +12,4 @@ if ans==password:
     print("Access Granted")
 else:
     print("Access denied")
+#task 2
