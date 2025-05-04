@@ -16,6 +16,7 @@
 
 
 planets = ["mercury","venus", "earth", "mars", "jupiter", "saturn", "uranus" ]
+print(list,)
 planets.append("neptune")
 planets[3]="muskworld"
 planets.pop(6)
