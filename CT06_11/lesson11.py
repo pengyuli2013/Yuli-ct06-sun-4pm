@@ -6,5 +6,5 @@ while True:
         break
 #task 1
 
-pass="superpass123"
+password="superpass123"
 input("hello")
