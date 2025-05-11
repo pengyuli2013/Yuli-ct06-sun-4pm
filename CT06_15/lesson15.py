@@ -286,6 +286,7 @@ else:
 
 
 
+square=6
 
 
 
