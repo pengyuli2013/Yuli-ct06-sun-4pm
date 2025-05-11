@@ -72,7 +72,8 @@
 #         "I don't think you belong here..."
 var=input("name")
 if var==ethan:
-    print("")
+    print("hi")
+
 
 
 
