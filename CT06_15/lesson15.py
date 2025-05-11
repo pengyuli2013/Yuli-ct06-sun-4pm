@@ -70,9 +70,19 @@
 #         "Nice to meet you!"
 # 3. If the person is none of the above, say:
 #         "I don't think you belong here..."
+def welcome():
+    print("hi")
+    print("my name is freddo")
+    print("i like to swim and eat chicken wings")
+    print("nice to meet u")
+
 var=input("name")
 if var==ethan:
     print("hi")
+elif var==ben or var==gracie or var==javior:
+    welcome
+else:
+    print("u dont belomng here")
 
 
 
