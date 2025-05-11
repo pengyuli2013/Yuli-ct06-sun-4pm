@@ -39,16 +39,16 @@ print("Hello from lesson 14")
 import turtle
 window=turtle.Screen()
 window.setup(200,200)
-turtle.Turtle()
-turtle.shape("arrow")
-turtle.color("blue")
-turtle.seth(90)
-turtle.goto(0,0)
+artist = turtle.Turtle()
+artist.shape("arrow")
+artist.color("blue")
+artist.seth(90)
+artist.goto(0,0)
 
-turtle.forward(50)
+artist.forward(50)
 for i in range(360):
-    turtle.forward(1)
-    turtle.left(1)
+    artist.forward(1)
+    artist.left(1)
 
 
 
