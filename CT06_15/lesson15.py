@@ -43,6 +43,7 @@ turtle.Turtle()
 turtle.shape("arrow")
 turtle.color("blue")
 turtle.forward(45)
+turtle.turn
 for i in range(360):
     turtle.forward(1)
     turtle.left(1)
