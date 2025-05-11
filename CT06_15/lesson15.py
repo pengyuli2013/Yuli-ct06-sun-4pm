@@ -1,6 +1,7 @@
 print("Hello from lesson 14")
 import turtle
-.setup()
+window=turtle.Screen()
+window
 
 
 
