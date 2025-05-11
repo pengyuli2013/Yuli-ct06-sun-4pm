@@ -80,7 +80,7 @@ var=input("name")
 if var==ethan:
     print("hi")
 elif var==ben or var==gracie or var==javior:
-    welcome
+    welcome()
 else:
     print("u dont belomng here")
 
