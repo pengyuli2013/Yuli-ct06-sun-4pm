@@ -43,8 +43,9 @@ artist = turtle.Turtle()
 artist.shape("arrow")
 artist.color("blue")
 artist.seth(90)
-artist
+artist.penup()
 artist.goto(0,0)
+artist
 
 artist.forward(50)
 for i in range(360):
