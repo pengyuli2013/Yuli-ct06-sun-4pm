@@ -79,7 +79,7 @@ def welcome():
 var=input("name")
 if var==ethan:
     print("hi")
-elif var==ben or var==gracie or var==javior:
+elif var=="ben" or var=="gracie" or var==javior:
     welcome()
 else:
     print("u dont belomng here")
