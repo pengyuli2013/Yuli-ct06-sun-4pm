@@ -44,6 +44,7 @@ turtle.shape("arrow")
 turtle.color("blue")
 turtle.seth(90)
 turtle.goto(0,0)
+
 turtle.forward(50)
 for i in range(360):
     turtle.forward(1)
