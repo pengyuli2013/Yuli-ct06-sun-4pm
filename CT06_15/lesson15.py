@@ -47,7 +47,7 @@ artist.penup()
 artist.goto(0,0)
 artist.pendown()
 
-artist.forward(50)
+artist.forward(60)
 for i in range(360):
     artist.forward(1)
     artist.left(1)
