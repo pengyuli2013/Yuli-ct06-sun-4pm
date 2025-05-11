@@ -42,7 +42,7 @@ window.setup(200,200)
 turtle.Turtle()
 turtle.shape("arrow")
 turtle.color("blue")
-turtle.forward(120)
+turtle.forward(60)
 for i in range(360):
     turtle.forward(1)
     turtle.left(1)
