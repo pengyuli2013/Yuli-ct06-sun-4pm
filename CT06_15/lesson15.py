@@ -278,4 +278,4 @@ window=turtle.Screen()
 
 
 
-turtle.
+turtle.mainloop()
