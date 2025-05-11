@@ -41,7 +41,7 @@ window=turtle.Screen()
 window.setup(200,200)
 turtle.Turtle()
 turtle.shape("arrow")
-turtle.color
+turtle.color()
 
 
 
