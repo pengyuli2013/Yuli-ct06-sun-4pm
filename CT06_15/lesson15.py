@@ -283,10 +283,17 @@ else:
 
 
 
-
+def square():
+    for i in range(4):
+        turtle.forward(20)
+        turtle.right(90)
 
 
 square=6
+rows=3
+for i in range (rows):
+    for i in range(square):
+        square
 
 
 
