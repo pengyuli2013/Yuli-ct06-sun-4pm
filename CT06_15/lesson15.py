@@ -357,4 +357,4 @@ else:
 
 
 
-artisr.mainloop()
+artist.mainloop()
