@@ -293,7 +293,7 @@ square=6
 rows=3
 for i in range (rows):
     for i in range(square):
-        square
+        square()
 
 
 
