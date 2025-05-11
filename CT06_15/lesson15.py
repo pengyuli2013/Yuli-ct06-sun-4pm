@@ -357,4 +357,4 @@ else:
 
 
 
-turtle.mainloop()
+artisr.mainloop()
