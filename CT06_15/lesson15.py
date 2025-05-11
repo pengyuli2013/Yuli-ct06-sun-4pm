@@ -43,6 +43,7 @@ artist = turtle.Turtle()
 artist.shape("arrow")
 artist.color("blue")
 artist.seth(90)
+artist
 artist.goto(0,0)
 
 artist.forward(50)
