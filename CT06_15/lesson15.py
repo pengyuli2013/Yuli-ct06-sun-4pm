@@ -45,7 +45,7 @@ artist.color("blue")
 artist.seth(90)
 artist.penup()
 artist.goto(0,0)
-artist
+artist.pendown()
 
 artist.forward(50)
 for i in range(360):
