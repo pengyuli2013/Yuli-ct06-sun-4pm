@@ -85,11 +85,12 @@
 #     print("u dont belomng here")
 
 
-def doubleNum(Num):
-    return Num*2
-Num=input("Num?")
-print(doubleNum(Num))
+# def doubleNum(Num):
+#     return Num*2
+# Num=input("Num?")
+# print(doubleNum(Num))
 
+import turtle
 
 
 
