@@ -283,7 +283,7 @@
 
 
 
-def square():
+def strsquare():
     for i in range(4):
         turtle.forward(20)
         turtle.right(90)
