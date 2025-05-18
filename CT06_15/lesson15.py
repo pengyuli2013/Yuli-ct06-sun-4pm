@@ -95,7 +95,7 @@ def set_up(screen_width,screen_height):
     screen=turtle.Screen()
     screen.setup(width=screen_Width,height=screen_Height)
     return screen
-
+screenWidth=
 
     
 
