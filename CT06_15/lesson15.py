@@ -108,7 +108,7 @@ ball=create_blue_ball()
 ball.goto(0,0)
 def move_ball(ball, dx,dy):
     ball.setx(ball.xcor()+dx)
-    ball.sety()
+    ball.sety(ball.ycor())
     
 dx=2
 dy=2
