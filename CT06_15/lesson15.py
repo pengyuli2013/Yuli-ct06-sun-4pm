@@ -86,7 +86,8 @@
 
 
 def greet(name):
-    return 
+    return "Hello " + name + "!"
+
 name=input("What is ur name?")
 
 
