@@ -96,7 +96,7 @@ def set_up(screen_width,screen_height):
     screen.setup(width=screen_width,height=screen_height)
     return screen
 screen_width=300
-screenheight=500
+screen_height=500
 screen=set_up(screenWidth,screenHeight)
 
     
