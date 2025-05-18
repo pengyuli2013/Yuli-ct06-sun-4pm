@@ -85,11 +85,11 @@
 #     print("u dont belomng here")
 
 
-def greet(userName):
-    return "Hello " + userName + "!"
+# def greet(userName):
+#     return "Hello " + userName + "!"
 
-userName=input("What is ur name?")
-print(greet(userName))
+# userName=input("What is ur name?")
+# print(greet(userName))
 
 
 
