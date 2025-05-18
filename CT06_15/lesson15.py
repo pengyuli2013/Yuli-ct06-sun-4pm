@@ -104,7 +104,7 @@ def create_blue_ball():
     ball.color("blue")
     ball.penup()
     return ball
-screen=set
+ball=create
 screen.mainloop()
 
     
