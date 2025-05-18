@@ -86,7 +86,8 @@
 
 
 def doubleNum(Num):
-    return 
+    return Num*2
+
 
 
 
