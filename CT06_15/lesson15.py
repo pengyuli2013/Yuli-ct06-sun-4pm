@@ -371,4 +371,4 @@ print(greet(userName))
 
 
 
-artist.mainloop()
+# artist.mainloop()
