@@ -99,7 +99,8 @@ screenwidth=300
 screenheight=500
 screen=set_up(screenwidth,screenheight)
 def create_blue_ball():
-    ball=turtle.Turtle
+    ball=turtle.Turtle(
+    )
 screen.mainloop()
 
     
