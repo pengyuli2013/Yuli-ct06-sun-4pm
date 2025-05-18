@@ -92,7 +92,8 @@
 
 import turtle
 def set_up(screen_width,screen_height):
-    screen=
+    scr5r
+    
 
 
 
