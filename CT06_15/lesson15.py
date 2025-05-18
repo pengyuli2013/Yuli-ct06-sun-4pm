@@ -109,7 +109,7 @@ ball.goto(0,0)
 dx=2
 dy=2
 while True:
-    
+    move_ball(ball,dx)
 screen.mainloop()
 
     
