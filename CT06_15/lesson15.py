@@ -85,7 +85,7 @@
 #     print("u dont belomng here")
 
 
-def greet(name):
+def greet(userName):
     return "Hello " + userName + "!"
 
 userName=input("What is ur name?")
