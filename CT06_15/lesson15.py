@@ -87,7 +87,7 @@
 
 def greet():
     print(name)
-name=input
+name=input("What is ur name")
 
 
 
