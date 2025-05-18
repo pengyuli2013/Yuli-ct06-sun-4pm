@@ -85,9 +85,9 @@
 #     print("u dont belomng here")
 
 
-def greet():
+def greet(name):
     print(name)
-name=input("What is ur name")
+name=input("What is ur name?")
 
 
 
