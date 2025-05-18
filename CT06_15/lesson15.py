@@ -108,7 +108,8 @@ ball=create_blue_ball()
 ball.goto(0,0)
 dx=2
 dy=2
-
+while True:
+    
 screen.mainloop()
 
     
