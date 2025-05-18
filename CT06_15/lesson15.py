@@ -122,8 +122,6 @@ while True:
     move_ball(ball,dx,dy)
     if check_x(ball, screenwidth):
         dx*=-1
-if check_x(ball, screenwidth):
-        dx*=-1
 
 screen.mainloop()
 
