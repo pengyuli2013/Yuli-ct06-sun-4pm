@@ -85,6 +85,10 @@
 #     print("u dont belomng here")
 
 
+def greet():
+    print()
+
+
 
 
 
