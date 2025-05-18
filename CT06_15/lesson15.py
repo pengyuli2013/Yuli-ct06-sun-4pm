@@ -87,7 +87,8 @@
 
 def doubleNum(Num):
     return Num*2
-input=input("Num?")
+Num=input("Num?")
+
 
 
 
