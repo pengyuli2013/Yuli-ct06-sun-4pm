@@ -106,8 +106,8 @@ def create_blue_ball():
     return ball
 ball=create_blue_ball()
 ball.goto(0,0)
-dx=0
-dy=0
+dx=2
+dy=2
 
 screen.mainloop()
 
