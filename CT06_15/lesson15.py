@@ -109,7 +109,8 @@ ball.goto(0,0)
 def move_ball(ball, dx,dy):
     ball.setx(ball.xcor()+dx)
     ball.sety(ball.ycor()+dy)
-    
+def check_x(ball,screenwidth):
+    if ball.xcor
 dx=2
 dy=2
 while True:
