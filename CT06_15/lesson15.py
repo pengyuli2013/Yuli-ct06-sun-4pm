@@ -120,7 +120,8 @@ dx=2
 dy=2
 while True:
     move_ball(ball,dx,dy)
-    
+    if check_x(ball, screenWidth):
+        
 
 screen.mainloop()
 
